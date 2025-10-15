@@ -1,6 +1,3 @@
-<div align="center"> 
- <img src="./assets/preview.png" width="1920"/>
-</div> 
 
 # Open Weather
 
